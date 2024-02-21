@@ -1,0 +1,6 @@
+@CarDiary.API_HostAddress = http://localhost:5171
+
+GET {{CarDiary.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

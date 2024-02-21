@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDiary.API", "CarDiary.API\CarDiary.API.csproj", "{0B90A06B-31B6-49F4-9340-E7D1942DDB2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDiary.Data", "CarDiary.Data\CarDiary.Data.csproj", "{E39FE1DD-1C52-4B2B-B911-E3100FD309FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B90A06B-31B6-49F4-9340-E7D1942DDB2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B90A06B-31B6-49F4-9340-E7D1942DDB2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B90A06B-31B6-49F4-9340-E7D1942DDB2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B90A06B-31B6-49F4-9340-E7D1942DDB2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E39FE1DD-1C52-4B2B-B911-E3100FD309FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E39FE1DD-1C52-4B2B-B911-E3100FD309FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E39FE1DD-1C52-4B2B-B911-E3100FD309FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E39FE1DD-1C52-4B2B-B911-E3100FD309FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {975F918E-019E-44F8-A64B-0D388CE35E9B}
+	EndGlobalSection
+EndGlobal
